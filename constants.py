@@ -1,0 +1,9 @@
+
+DATA_DIR = 'your/data/daily_alpha_vantage'
+WINDOW_SIZE = 30
+ACTION_DIM = 2
+LR = 0.0001
+EPS_CLIP = 0.1
+EPOCHS = 4
+GAMMA = 0.99
+TRAJECTORY_STEPS =  360
